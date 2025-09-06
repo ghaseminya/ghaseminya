@@ -57,6 +57,7 @@ It supports modeling, simulation, and evaluation of distributed smart applicatio
 ### 📝 Recent Publications
 
 - "Fogfaas: providing serverless computing simulation for iFogSim and edge cloud", Springer Science and Business Media LLC, (2025), Vol 81, No 5:
+- "Advancing cloud virtualization: a comprehensive survey on integrating IoT, Edge, and Fog computing with FaaS for heterogeneous smart environments." J Supercomput 81, 1303 (2025). https://doi.org/10.1007/s11227-025-07799-2
 -  یک الگوریتم بر پایه درهم سازی در تطبیق رشته بر روی آپاچی هدوپ ارائه شده در اولین کنفرانس بین المللی دوسالانه هوش مصنوعی و علوم داده (1403) محمدمهدی قاسمی نیا ، سیدابوالفضل شاهزاده فاضلی ، جمال زارع پوراحمدی آبادی
 - Enhancing Task Placement in iFogSim Using Metaheuristic Algorithms: An Innovative Approach ارائه شده در سومین کنفرانس بین المللی و هشتمین کنفرانس ملی کامپیوتر، فناوری اطلاعات و کاربردهای هوش مصنوعی (1403) Mohammad Mahdi Ghaseminya ، Seyed Abolfazl Shahzadeh Fazeli ، Najme Heydarnezhad
 - کشف تقلب بر روی تراکنش های مالی به شکل استریم در کلان داده ها ارائه شده در پنجمین کنفرانس بین المللی محاسبات نرم (1402) محمدمهدی قاسمی نیا ، سیدابوالفضل شاهزاده فاضلی ، الهام عباسی هرفته 
